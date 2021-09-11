@@ -1,5 +1,5 @@
-<? xml version= "1.0"?>
-<project name="example project" default="info">
+<?xml version="1.0"?>
+<project name="sample project" default="info">
 <target name="info">
 <echo> HELLO WORLD - WELCOME to MYHANZONE </echo>
 </target>
